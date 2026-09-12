@@ -1,3 +1,56 @@
+@media (max-width: 600px) {
+  nav {
+    padding: 15px 20px;
+  }
+
+  nav h1 {
+    font-size: 28px;
+  }
+
+  nav div {
+    gap: 12px;
+  }
+
+  nav a {
+    font-size: 14px;
+  }
+
+  .hero {
+  padding: 50px 20px;
+}
+
+.hero h2 {
+  font-size: 36px;
+}
+
+.hero p {
+  font-size: 18px;
+}
+
+.carousel-scene {
+  width: 260px;
+  height: 220px;
+}
+
+.carousel-card:nth-child(1) {
+  transform: rotateY(0deg) translateZ(150px);
+}
+
+.carousel-card:nth-child(2) {
+  transform: rotateY(120deg) translateZ(150px);
+}
+
+.carousel-card:nth-child(3) {
+  transform: rotateY(240deg) translateZ(150px);
+}
+
+.featured-card {
+  width: 220px;
+  margin: 0 auto;
+}
+
+}
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
