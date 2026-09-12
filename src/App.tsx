@@ -27,7 +27,7 @@ function App() {
             <FeaturedCard
               title="Speed"
               description="Push your limits and master the road"
-              image="/speed.png"
+              image="speed.png"
             />
         </div>
 
@@ -35,7 +35,7 @@ function App() {
             <FeaturedCard
               title="Earn Georges"
               description="Race, compete, and earn Georges, the digital currency of Artega"
-              image="/georges.png"
+              image="georges.png"
             />
           </div>
 
